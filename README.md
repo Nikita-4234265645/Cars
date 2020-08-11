@@ -1,4 +1,4 @@
-![Ford Mustang](ford.jpg)
+![Ford Mustang](mustang-boss-429-3.jpg)
 
 ## Welcome to GitHub Pages
 
