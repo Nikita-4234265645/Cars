@@ -1,5 +1,5 @@
 
-<img src="mustang-boss-429-3.jpg" width="1920" />
+<img src="mustang-boss-429-3.jpg" width="100%" />
 
 ## Welcome to GitHub Pages
 
