@@ -1,5 +1,5 @@
-![Ford Mustang](mustang-boss-429-3.jpg)
-<img src="mustang-boss-429-3.jpg" width="300" />
+
+<img src="mustang-boss-429-3.jpg" width="1920" />
 
 ## Welcome to GitHub Pages
 
