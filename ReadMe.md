@@ -1,4 +1,4 @@
-**Ford Mustang 1969**
+<"**Ford Mustang 1969** width="60%/>
 
 <img src="1969_Ford_Mustang_Mach_I.jpg" width="60%" />
 
