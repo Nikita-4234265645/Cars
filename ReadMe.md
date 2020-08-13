@@ -1,4 +1,6 @@
-<"**Ford Mustang 1969** width="60%/>
+<style> body { margin: 0; min-width: 250px; } 
+**Ford Mustang 1969** 
+</style>
 
 <img src="1969_Ford_Mustang_Mach_I.jpg" width="60%" />
 
