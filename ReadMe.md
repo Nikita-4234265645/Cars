@@ -1,4 +1,4 @@
-*********Ford Mustang 1969********* 
+**Ford Mustang 1969** 
 
 <img src="1969_Ford_Mustang_Mach_I.jpg" width="60%" />
 
@@ -14,7 +14,7 @@ Leergewicht:          1219–1462 kg
 Max. Gescwindichkeit: 206 km/h
 0-100 km/h:           8 sec
 ```
-**
+
 Der Mustang der dritten Generation fiel erneut etwas länger und breiter aus. Das Design hielt sich an den bisherigen Kanon, zeigte sich aber in einigen Punkten überarbeitet. Das Modell 1969 erhielt Doppelscheinwerfer; die äußeren Scheinwerfer saßen in tiefen Höhlen in den Kotflügelspitzen, die inneren (Fernlicht-)Scheinwerfer im Kühlergrill. Die Hutzen vor den Hinterrädern wiesen jetzt nach hinten. Bei dem ab 1969 „Sportsroof“ genannten Fließheck-Coupé entfielen diese angedeuteten Lufteinlässe vor den Hinterrädern ganz. Dafür besaß der 1969er Sportsroof Lufteinlässe an den Kotflügelflanken in Höhe der Türgriffe. Diese entfielen beim Boss und dann ab 1970 vollständig.
 
 Neu im Programm war der Mustang Grandé, eine Luxusversion des Stufenheckcoupés mit serienmäßigem Vinyldach, Holzfolie am Armaturenbrett und anderen Ausstattungsdetails. Ebenfalls neu waren der Mustang Mach I (nur als Sportsroof erhältlich) als Sportversion des Fastback mit 5,8-, 6,4- oder Siebenliter-V8-Motor. Er zeichnete sich durch die GT-Ausstattung, eine De-Luxe-Innenausstattung mit Sportsitzen, höherwertigen Bodenteppichen, ein Armaturenbrett mit Holzimitat-Ausstattung und einer großen Uhr an der Beifahrerseite, eine mattschwarze Motorhaube und eine Hutze aus.
