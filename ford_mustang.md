@@ -3,8 +3,12 @@ layout: default
 title: "Ford Mustang 1969"
 permalink: /ford/
 ---
+[BMW M3 e 46](https://nikita-4234265645.github.io/Cars/)
 
-**Ford Mustang 1969** 
+[Toyota Supra](https://nikita-4234265645.github.io/Cars/supra/)
+
+
+## Ford Mustang 1969
 
 <img src="/Cars/1969_Ford_Mustang_Mach_I.jpg" width="60%" />
 
