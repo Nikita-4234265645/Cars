@@ -1,8 +1,3 @@
----
-layout: default
-title: "BMW M3 e46"
----
-
 **BMW M3 e46 ** 
 
 <img src="download1.jpg" width="60%" />
