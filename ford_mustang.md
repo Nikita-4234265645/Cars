@@ -1,6 +1,12 @@
+---
+layout: default
+title: "Ford Mustang 1969"
+permalink: /ford/
+---
+
 **Ford Mustang 1969** 
 
-<img src="1969_Ford_Mustang_Mach_I.jpg" width="60%" />
+<img src="/Cars/1969_Ford_Mustang_Mach_I.jpg" width="60%" />
 
 ```
 Produktionszeitraum:  1969–1970
@@ -22,6 +28,6 @@ Neu im Programm war der Mustang Grandé, eine Luxusversion des Stufenheckcoupés
 Von der Rennsportversion der Trans-Am-Serie abgeleitet war der Mustang Boss 302 mit Hochleistungs-Fünfliter-V8-Motor, den es auch als Boss 429 mit einem weiteren Siebenliter-V8-Motor (7031 cm³ bzw. 429 Kubikzoll) zu kaufen gab. Das Hubraumlimit in der Trans-Am-Serie belief sich allerdings auf fünf Liter.
 
 
-<img src="mustang-boss-429-3.jpg" width="100%" />
+<img src="/Cars/mustang-boss-429-3.jpg" width="100%" />
 
 
