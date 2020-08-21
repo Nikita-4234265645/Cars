@@ -6,7 +6,7 @@ permalink: /supra/
 
 **Toyota Supra 1998** 
 
-<img src="867516.jpg" width="60%" />
+<img src="/Cars/867516.jpg" width="60%" />
 
 ```
 Produktionszeitraum:  1993–2002
@@ -26,5 +26,5 @@ Die Messung der dynamischen Bremsung ermöglichte die Verwendung hochwertiger Pr
 Interessanterweise ist der Rennwagen des japanischen Ringteams "Toyota Castrol TEAM TOM S" ein Rennwagen des japanischen Ringteams "Toyota Castrol TEAM TOM S", bei dem es sich um Wasser handelt, das in der Post steht. Es gibt 2 Liter.
 Obwohl das "Toyota Team SARD" eine 450-PS-Version des Standardmotors "2JZ-GTE" vorbereitete, war es dem, was wahrscheinlicher war, und dem malerischen Niedergang des Zano Zano Zano sehr ähnlich. Der Sechszylindermotor mit Gusseisenblock unterstützt nicht die maximal massive Ausstattung
 
-<img src="167399.jpg" width="100%" />
+<img src="/Cars/167399.jpg" width="100%" />
 
