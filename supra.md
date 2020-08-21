@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toyota Supra"
+permalink: /supra/
+---
+
 **Toyota Supra 1998** 
 
 <img src="867516.jpg" width="60%" />
