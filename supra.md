@@ -7,6 +7,7 @@ permalink: /supra/
 
 [Ford Mustang 1969](https://nikita-4234265645.github.io/Cars/ford/)
 
+
 **Toyota Supra 1998** 
 
 <img src="/Cars/867516.jpg" width="60%" />
